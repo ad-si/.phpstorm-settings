@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.mxml</mask>
+      <mask>*.lang</mask>
+      <mask>php</mask>
+      <mask>ph</mask>
+      <mask>p</mask>
+      <mask>*…</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.tpl</mask>
+      <mask>*.tp</mask>
+      <mask>*</mask>
+      <mask>*.page</mask>
+      <mask>*.pag</mask>
+      <mask>*.pa</mask>
+      <mask>*.t</mask>
+      <mask>*.ty</mask>
+      <mask>*.typ</mask>
+      <mask>*.type</mask>
+      <mask>*.type.</mask>
+      <mask>*.type.ph</mask>
+      <mask>*.type.php</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.css</mask>
+    </recentFileMasks>
+  </component>
+</application>
