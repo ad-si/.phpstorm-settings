@@ -59,7 +59,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/activation.page" timestamp="1517311837157" />
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/activation.page" timestamp="1517315467767">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/composer.json" timestamp="1511951267319">
         <mark key="[" line="25" column="28" />
         <mark key="]" line="25" column="26" />
@@ -867,7 +872,7 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517229828051">
+      <file name="/Dummy.txt" timestamp="1517315469548">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
