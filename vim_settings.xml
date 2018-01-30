@@ -3,26 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/teachersroom/scenes/teacher-data.js" timestamp="1515596905401">
-        <mark key="'" line="3" column="11" />
-        <mark key="[" line="81" column="28" />
-        <mark key="]" line="81" column="33" />
-        <mark key="." line="81" column="33" />
-        <mark key="^" line="81" column="33" />
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/user.js" timestamp="1517315669062">
+        <mark key="[" line="72" column="29" />
+        <mark key="]" line="72" column="33" />
+        <mark key="^" line="72" column="33" />
+        <mark key="." line="72" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/core/src/Student.type.php" timestamp="1517311488291">
-        <mark key="'" line="4" column="23" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="70" column="38" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/userprofile/components/search.scss" timestamp="1517221761679">
-        <mark key="'" line="35" column="16" />
-        <mark key="[" line="78" column="25" />
-        <mark key="]" line="78" column="31" />
-        <mark key="^" line="78" column="31" />
-        <mark key="." line="78" column="31" />
+      <file name="/a.dummy" timestamp="1517317299965">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/teachersroom/scenes/schoolclass.js" timestamp="1517309983955">
         <mark key="[" line="22" column="53" />
@@ -82,8 +70,8 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/core/src/User.type.php" timestamp="1517229865004">
-        <mark key="'" line="96" column="9" />
+      <file name="$USER_HOME$/workspace/meinjob/core/src/User.type.php" timestamp="1517319472893">
+        <mark key="'" line="78" column="31" />
         <mark key="[" line="190" column="0" />
         <mark key="]" line="190" column="0" />
         <mark key="^" line="92" column="44" />
@@ -107,25 +95,11 @@
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/_student/list.tpl" timestamp="1516188142513">
-        <mark key="'" line="25" column="24" />
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-        <mark key="^" line="15" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/config/app.php" timestamp="1513178194561">
         <mark key="[" line="247" column="35" />
         <mark key="]" line="247" column="39" />
         <mark key="^" line="247" column="39" />
         <mark key="." line="247" column="39" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/teacher/index.page" timestamp="1515491896218">
-        <mark key="'" line="25" column="26" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/meinjob/backend/page/dev/db/init/students.page" timestamp="1516019446274">
         <mark key="[" line="18" column="0" />
@@ -155,19 +129,11 @@
         <mark key="." line="34" column="92" />
         <mark key="^" line="34" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/resetpassword.page" timestamp="1517310253917" />
       <file name="$USER_HOME$/workspace/sn/core/src/functions/state.function.php" timestamp="1513180772943">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="15" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/_page.tpl" timestamp="1515589988649">
-        <mark key="'" line="18" column="28" />
-        <mark key="[" line="41" column="52" />
-        <mark key="]" line="41" column="51" />
-        <mark key="." line="41" column="51" />
-        <mark key="^" line="41" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/resources/assets/sass/app.scss" timestamp="1513085201975">
         <mark key="[" line="9" column="0" />
@@ -179,24 +145,17 @@
         <mark key="]" line="355" column="0" />
         <mark key="." line="355" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/message.scss" timestamp="1517220419425">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/user.page" timestamp="1517319453082">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/app/Http/Middleware/Psr15/AnotherExample.php" timestamp="1512580251319">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
         <mark key="^" line="13" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/teacher.js" timestamp="1515507076951">
-        <mark key="'" line="93" column="112" />
-        <mark key="[" line="52" column="61" />
-        <mark key="]" line="52" column="72" />
-        <mark key="." line="52" column="72" />
-        <mark key="^" line="52" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/vendor/jshannon63/laravel-psr15-middleware/src/Psr15MiddlewareHandler.php" timestamp="1512561492923">
         <mark key="[" line="20" column="50" />
@@ -214,27 +173,6 @@
         <mark key="]" line="13" column="61" />
         <mark key="." line="13" column="61" />
         <mark key="^" line="13" column="61" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/teacher/search.page" timestamp="1515503117411">
-        <mark key="'" line="29" column="21" />
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="29" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/teacher/register.page" timestamp="1515505856946">
-        <mark key="'" line="13" column="55" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="11" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/html.tpl" timestamp="1516186655167">
-        <mark key="'" line="31" column="85" />
-        <mark key="[" line="31" column="25" />
-        <mark key="]" line="31" column="99" />
-        <mark key="." line="31" column="99" />
-        <mark key="^" line="31" column="99" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/resources/views/articles.blade.php" timestamp="1511277910108">
         <mark key="[" line="4" column="25" />
@@ -288,41 +226,17 @@
         <mark key="." line="27" column="57" />
         <mark key="^" line="27" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/spunQ3/src/db/StorableObject.type.php" timestamp="1517229954271">
-        <mark key="[" line="280" column="0" />
-        <mark key="]" line="280" column="43" />
-      </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/app/Http/Middleware/Varnish.php" timestamp="1511965460201">
         <mark key="[" line="15" column="61" />
         <mark key="]" line="15" column="67" />
         <mark key="." line="15" column="67" />
         <mark key="^" line="15" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/schoolclass.scss" timestamp="1517221510722">
-        <mark key="'" line="77" column="20" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sn/core/src/functions/cacheQuestionnaireResult.function.php" timestamp="1511366479800">
         <mark key="[" line="10" column="66" />
         <mark key="]" line="22" column="30" />
         <mark key="^" line="22" column="30" />
         <mark key="." line="22" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/sn/backend/scripts/amazonexport.php" timestamp="1513768168060">
-        <mark key="'" line="203" column="16" />
-        <mark key="[" line="203" column="54" />
-        <mark key="]" line="205" column="31" />
-        <mark key="." line="205" column="31" />
-        <mark key="^" line="205" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/teachersroom/default.scss" timestamp="1515509549417">
-        <mark key="'" line="2" column="1" />
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/sn/core/src/State.type.php" timestamp="1513181626142">
         <mark key="[" line="233" column="0" />
@@ -335,20 +249,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="13" column="107" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/teachersroom/router.js" timestamp="1517309951548">
-        <mark key="'" line="17" column="14" />
-        <mark key="[" line="31" column="48" />
-        <mark key="]" line="31" column="49" />
-        <mark key="." line="31" column="49" />
-        <mark key="^" line="31" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/spunQ.conf" timestamp="1516106571825">
-        <mark key="'" line="29" column="39" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="36" column="55" />
-        <mark key="^" line="33" column="25" />
-        <mark key="." line="33" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/message/text.tpl" timestamp="1516101267788">
         <mark key="[" line="2" column="0" />
@@ -374,14 +274,6 @@
         <mark key="." line="66" column="35" />
         <mark key="^" line="66" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/userprofile/router.js" timestamp="1517216471433" />
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/teacher/login.page" timestamp="1515509194073">
-        <mark key="'" line="31" column="32" />
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="38" />
-        <mark key="." line="31" column="38" />
-        <mark key="^" line="31" column="38" />
-      </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/teacher/activation/html.tpl" timestamp="1515505330649">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="10" />
@@ -394,25 +286,17 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/core/src/Message.type.php" timestamp="1516202465932">
-        <mark key="'" line="192" column="6" />
-        <mark key="[" line="220" column="40" />
-        <mark key="]" line="222" column="48" />
-        <mark key="." line="222" column="48" />
-        <mark key="^" line="222" column="48" />
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/user/activation.page" timestamp="1517317558591">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="27" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="29" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/school.page" timestamp="1516021015928">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/teachersroom/scene.js" timestamp="1517221006764">
-        <mark key="'" line="66" column="32" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="48" />
-        <mark key="^" line="42" column="44" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/search/components/search-filters.tpl" timestamp="1515598061993">
         <mark key="[" line="5" column="3" />
@@ -426,20 +310,24 @@
         <mark key="." line="16" column="29" />
         <mark key="^" line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/user/passwordpolicy.page" timestamp="1517325881301">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/teachersroom/scenes/message.js" timestamp="1517310022350">
         <mark key="[" line="25" column="55" />
         <mark key="]" line="25" column="56" />
         <mark key="." line="25" column="56" />
         <mark key="^" line="25" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/_schoolclass/edit.tpl" timestamp="1517221454016">
-        <mark key="'" line="25" column="29" />
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="17" />
-        <mark key="^" line="35" column="41" />
-        <mark key="." line="35" column="17" />
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/username.page" timestamp="1517315674309">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/username.page" timestamp="1517311699116" />
       <file name="$USER_HOME$/workspace/laravel/my_laravel/app/Http/Middleware/Psr15/CustomHeader.php" timestamp="1513080637961">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="54" />
@@ -452,24 +340,11 @@
         <mark key="." line="15" column="58" />
         <mark key="^" line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/components/single-search.tpl" timestamp="1516022999170">
-        <mark key="'" line="77" column="27" />
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="42" />
-        <mark key="." line="20" column="16" />
-      </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/components/checkbox.tpl" timestamp="1516204184840">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="8" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/selfcare/scene.js" timestamp="1517221032805">
-        <mark key="'" line="51" column="29" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="48" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/database/migrations/2017_11_21_131114_create_articles_table.php" timestamp="1511777952271">
         <mark key="[" line="25" column="32" />
@@ -504,6 +379,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/message/body-templates/invitation.tpl" timestamp="1517318132640">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="9" column="48" />
+        <mark key="^" line="9" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/meinjob/core/src/School.type.php" timestamp="1516020968423">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="32" column="4" />
@@ -516,19 +397,11 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/_message/list.tpl" timestamp="1517219152811">
-        <mark key="'" line="17" column="32" />
-        <mark key="[" line="23" column="119" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
-      </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/vendor/jshannon63/laravel-psr15-middleware/src/Psr15MiddlewareServiceProvider.php" timestamp="1512573271299">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/backend/tpl/js/router.js" timestamp="1517216557485" />
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/selfcare/teacher/default.tpl" timestamp="1515505930298">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="20" />
@@ -552,23 +425,28 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/student/setpassword.scss" timestamp="1517320701653">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sn/backend/config-postinit.php" timestamp="1512394959050">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/selfcare/teacher/register.js" timestamp="1515506760012">
-        <mark key="'" line="22" column="54" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/app/Article.php" timestamp="1511947422103">
         <mark key="[" line="31" column="50" />
         <mark key="]" line="51" column="3" />
         <mark key="." line="51" column="3" />
         <mark key="^" line="51" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/user/reset-password/text.tpl" timestamp="1517315770214">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="8" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/app/Http/Middleware/LogBrowserConsole.php" timestamp="1511964799118">
         <mark key="[" line="22" column="0" />
@@ -580,19 +458,6 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/student.scss" timestamp="1516198996574">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/teachersroom/message.page" timestamp="1516202129855">
-        <mark key="'" line="43" column="19" />
-        <mark key="[" line="19" column="49" />
-        <mark key="]" line="19" column="84" />
-        <mark key="." line="19" column="84" />
-        <mark key="^" line="19" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/bootstrap/ConfigureLogging.php" timestamp="1511951203419">
         <mark key="[" line="19" column="73" />
@@ -606,24 +471,22 @@
         <mark key="^" line="31" column="6" />
         <mark key="." line="31" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/username.tpl" timestamp="1517322570193">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/teachersroom/mainmenu.page" timestamp="1516012876928">
         <mark key="[" line="8" column="46" />
         <mark key="]" line="8" column="52" />
         <mark key="." line="8" column="52" />
         <mark key="^" line="8" column="52" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1517322083747" />
       <file name="$USER_HOME$/workspace/laravel/my_laravel/vendor/middlewares/client-ip/src/ClientIp.php" timestamp="1512563489482">
         <mark key="[" line="78" column="37" />
         <mark key="]" line="78" column="15" />
         <mark key="^" line="78" column="15" />
         <mark key="." line="78" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/teacher/login.page" timestamp="1516182430237">
-        <mark key="'" line="13" column="38" />
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/teachersroom/stage.js" timestamp="1516017024580">
         <mark key="[" line="15" column="29" />
@@ -672,20 +535,13 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/teachersroom/student.page" timestamp="1516203309088">
-        <mark key="'" line="28" column="19" />
-        <mark key="[" line="18" column="94" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/teacher/activation/text.tpl" timestamp="1515506993459">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="44" />
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/teachersroom/student/invite.page" timestamp="1517309638075">
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/teachersroom/student/invite.page" timestamp="1517316988383">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -700,25 +556,17 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/core/src/urls/MeinjobUrlManager.class.php" timestamp="1516182615770">
-        <mark key="'" line="414" column="40" />
-        <mark key="[" line="583" column="16" />
-        <mark key="]" line="583" column="16" />
-        <mark key="." line="583" column="16" />
-        <mark key="^" line="553" column="62" />
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/user/activation/text.tpl" timestamp="1517315586930">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="8" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/routes/api.php" timestamp="1513078374274">
         <mark key="[" line="20" column="11" />
         <mark key="]" line="20" column="11" />
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/teacher-data.tpl" timestamp="1516187246213">
-        <mark key="'" line="7" column="23" />
-        <mark key="[" line="46" column="34" />
-        <mark key="]" line="46" column="34" />
-        <mark key="." line="46" column="34" />
-        <mark key="^" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/app/Http/Middleware/Psr15/Example.php" timestamp="1512580774185">
         <mark key="[" line="16" column="0" />
@@ -732,13 +580,6 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/components/multi-search.tpl" timestamp="1517221686866">
-        <mark key="'" line="49" column="31" />
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="^" line="78" column="27" />
-      </file>
       <file name="$USER_HOME$/workspace/oe24_stagingserver/lib/oe24_wetter/tpl/_relaunch2016/ovr/_contentBoxes/allCards/detail-today.tpl" timestamp="1510655174258">
         <mark key="[" line="178" column="25" />
         <mark key="]" line="178" column="25" />
@@ -749,24 +590,29 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/_student/edit.tpl" timestamp="1516204259558">
-        <mark key="'" line="28" column="25" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="60" column="35" />
-      </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/_message/show.tpl" timestamp="1516190778852">
         <mark key="[" line="17" column="57" />
         <mark key="]" line="17" column="65" />
         <mark key="." line="17" column="65" />
         <mark key="^" line="17" column="65" />
       </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/user/reset-password/html.tpl" timestamp="1517315765294">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="54" />
+        <mark key="^" line="13" column="54" />
+        <mark key="." line="13" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/form/teacher/login.form" timestamp="1516097076667">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="30" />
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/student/setpassword.page" timestamp="1517317987267">
+        <mark key="[" line="12" column="67" />
+        <mark key="]" line="12" column="73" />
+        <mark key="." line="12" column="73" />
+        <mark key="^" line="12" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/vendor/jshannon63/laravel-psr15-middleware/src/Psr15MiddlewareDispatcher.php" timestamp="1512577008776">
         <mark key="[" line="22" column="0" />
@@ -791,38 +637,23 @@
         <mark key="." line="74" column="23" />
         <mark key="^" line="74" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/student.page" timestamp="1516032435152">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-        <mark key="^" line="8" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/meinjob/core/src/lucene/LuceneIndex.class.php" timestamp="1515492502633">
         <mark key="[" line="224" column="81" />
         <mark key="]" line="224" column="87" />
         <mark key="." line="224" column="87" />
         <mark key="^" line="224" column="87" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/header/teacher/selfcare.js" timestamp="1515502634529">
-        <mark key="'" line="10" column="27" />
-        <mark key="[" line="47" column="38" />
-        <mark key="]" line="47" column="44" />
-        <mark key="^" line="47" column="44" />
-        <mark key="." line="47" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/selfcare/teacher.page" timestamp="1515507113359">
-        <mark key="'" line="13" column="21" />
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/page/teacher/activation.page" timestamp="1515580040133">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="28" column="47" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/logout.page" timestamp="1517315911208">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="5" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/noen/noen/tpl/_page/tracker.tpl" timestamp="1511171537037">
         <mark key="[" line="39" column="12" />
@@ -836,24 +667,23 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/teachersroom/scenes/student.js" timestamp="1517218878433">
-        <mark key="'" line="14" column="36" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="71" />
-        <mark key="." line="87" column="26" />
-        <mark key="^" line="87" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/sn/backend/scripts/_init.php" timestamp="1513161889900">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/user/login.page" timestamp="1517309440024">
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/user/login.page" timestamp="1517319262198">
         <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
+        <mark key="]" line="36" column="50" />
         <mark key="^" line="30" column="53" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/student/activation.page" timestamp="1517317612299">
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="28" column="46" />
+        <mark key="." line="28" column="46" />
+        <mark key="^" line="28" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/teacher/activation/subject.tpl" timestamp="1515505344869">
         <mark key="[" line="2" column="0" />
@@ -872,7 +702,7 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517315469548">
+      <file name="/Dummy.txt" timestamp="1517320577598">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -887,6 +717,12 @@
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="12" />
         <mark key="." line="72" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/student/setpassword.tpl" timestamp="1517325877357">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
+        <mark key="^" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/teachersroom.scss" timestamp="1516186184203">
         <mark key="[" line="3" column="0" />
@@ -955,19 +791,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/selfcare/teacher/login.tpl" timestamp="1515503761998">
-        <mark key="'" line="13" column="49" />
-        <mark key="[" line="15" column="62" />
-        <mark key="]" line="15" column="68" />
-        <mark key="." line="15" column="68" />
-        <mark key="^" line="15" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace/meinjob/core/src/Teacher.type.php" timestamp="1517309666551">
-        <mark key="'" line="63" column="31" />
-        <mark key="[" line="52" column="14" />
-        <mark key="]" line="52" column="19" />
-        <mark key="." line="52" column="19" />
-        <mark key="^" line="52" column="19" />
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/user/activation/html.tpl" timestamp="1517315591284">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="54" />
+        <mark key="^" line="13" column="54" />
+        <mark key="." line="13" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/noen/frontend/tpl/_boxes/Box/testbox.tpl" timestamp="1511354049387">
         <mark key="[" line="11" column="19" />
@@ -975,16 +803,8 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/teachersroom/mainmenu.js" timestamp="1516099442066">
-        <mark key="'" line="25" column="41" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="25" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="18" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/components/multi-search.tpl" />
       <jump line="35" column="64" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/components/multi-search.tpl" />
       <jump line="52" column="44" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/components/multi-search.tpl" />
       <jump line="20" column="19" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/components/single-search.tpl" />
@@ -1084,55 +904,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/meinjob/core/src/User.type.php" />
       <jump line="37" column="76" filename="$USER_HOME$/workspace/meinjob/core/src/User.type.php" />
       <jump line="96" column="9" filename="$USER_HOME$/workspace/meinjob/core/src/User.type.php" />
+      <jump line="78" column="31" filename="$USER_HOME$/workspace/meinjob/core/src/User.type.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>username</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gc3B1blEuZGIuU3RvcmFibGVPYmplY3QgJHRoaXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IHRydWU7CiAgICAgICAgICAgICAgICBpbnB1dC5jbGFzc0xpc3QuYWRkKCdpbnZhbGlkJyk7CiAgICAgICAgICAgICAgICBpbnB1dC5jbGFzc0xpc3QucmVtb3ZlKCd2YWxpZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRzdHVkZW50LT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gU3RvcmFibGVKU09OT2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IHRydWU7CiAgICAgICAgICAgICAgICBpbnB1dFJlcGVhdC5jbGFzc0xpc3QuYWRkKCdpbnZhbGlkJyk7CiAgICAgICAgICAgICAgICBpbnB1dFJlcGVhdC5jbGFzc0xpc3QucmVtb3ZlKCd2YWxpZCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gU3RvcmFibGVKU09OT2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgaW5wdXRSZXBlYXQuY2xhc3NMaXN0LmFkZCgndmFsaWQnKTsKICAgICAgICAgICAgICAgIGlucHV0UmVwZWF0LmNsYXNzTGlzdC5yZW1vdmUoJ2ludmFsaWQnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gU3RvcmFibGVKU09OT2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IHRydWU7CiAgICAgICAgICAgICAgICBpbnB1dC5jbGFzc0xpc3QuYWRkKCdpbnZhbGlkJyk7CiAgICAgICAgICAgICAgICBpbnB1dC5jbGFzc0xpc3QucmVtb3ZlKCd2YWxpZCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBvdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgaW5wdXQuY2xhc3NMaXN0LmFkZCgndmFsaWQnKTsKICAgICAgICAgICAgICAgIGlucHV0LmNsYXNzTGlzdC5yZW1vdmUoJ2ludmFsaWQnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBvdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0dWRlbnRzID0gJHVzZXItPmdldFN0dWRlbnRzKCk7CiAgICAgICAgICAgIGlmIChlbXB0eSgkc3R1ZGVudHMpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gcmVzZXQoJHN0dWRlbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1ZGVudHMgPSAkdXNlci0+Z2V0U3R1ZGVudHMoKTsKICAgICAgICBpZiAoZW1wdHkoJHN0dWRlbnRzKSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc2V0KCRzdHVkZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBpbmplY3Qgc3R1ZGVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>username</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>username</last-pattern>
       <last-replace>teacher-data</last-replace>
       <last-substitute>button</last-substitute>
       <last-dir>1</last-dir>
@@ -1140,9 +961,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
-        <entry>logo</entry>
-        <entry>container</entry>
         <entry>client-data</entry>
         <entry>teachersroom</entry>
         <entry>read</entry>
@@ -1160,6 +978,9 @@
         <entry>not-all</entry>
         <entry>activation</entry>
         <entry>login</entry>
+        <entry>getPassword</entry>
+        <entry>setPassword</entry>
+        <entry>username</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
