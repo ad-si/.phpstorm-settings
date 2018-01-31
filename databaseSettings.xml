@@ -1,17 +1,7 @@
 <application>
-  <component name="DatabaseSettings">
-    <text-mode>
-      <parameter-patterns>
-        <parameter-pattern value="?\d+" />
-        <parameter-pattern value=":(\w+)" />
-        <parameter-pattern value="%\w+" scope="JAVA" />
-        <parameter-pattern value="$\{[^$\{\}]*\}" />
-        <parameter-pattern value="$\w+$" />
-        <parameter-pattern value="#(\w+)#" scope="XML" />
-      </parameter-patterns>
-    </text-mode>
+  <component name="DatabaseSettings" version="2">
     <csv-formats>
-      <csv-format name="Tab Separated Values (TSV)">
+      <csv-format name="Tab-separated (TSV)" id="Tab-separated (TSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
             <quotation>
@@ -21,7 +11,7 @@
           </record-format>
         </data>
       </csv-format>
-      <csv-format name="Comma Separated Values (CSV)">
+      <csv-format name="Comma-separated (CSV)" id="Comma-separated (CSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>
