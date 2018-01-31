@@ -12,6 +12,7 @@
       <file name="/a.dummy" timestamp="1517317299965">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/meinjob/core/src/Student.type.php" timestamp="1517393820460" />
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/js/teachersroom/scenes/schoolclass.js" timestamp="1517309983955">
         <mark key="[" line="22" column="53" />
         <mark key="]" line="22" column="53" />
@@ -391,7 +392,8 @@
         <mark key="^" line="110" column="3" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/spunQ.local.conf" timestamp="1516186789075">
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/spunQ.local.conf" timestamp="1517393546201">
+        <mark key="'" line="10" column="18" />
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
@@ -481,7 +483,6 @@
         <mark key="." line="8" column="52" />
         <mark key="^" line="8" column="52" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1517322083747" />
       <file name="$USER_HOME$/workspace/laravel/my_laravel/vendor/middlewares/client-ip/src/ClientIp.php" timestamp="1512563489482">
         <mark key="[" line="78" column="37" />
         <mark key="]" line="78" column="15" />
@@ -535,16 +536,23 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/teachersroom/student.page" timestamp="1517394344766">
+        <mark key="[" line="64" column="72" />
+        <mark key="]" line="64" column="82" />
+        <mark key="." line="64" column="82" />
+        <mark key="^" line="64" column="82" />
+      </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/teacher/activation/text.tpl" timestamp="1515506993459">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="44" />
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/teachersroom/student/invite.page" timestamp="1517316988383">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/page/rest/teachersroom/student/invite.page" timestamp="1517394315584">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="57" column="28" />
+        <mark key="." line="47" column="9" />
+        <mark key="^" line="47" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/resources/views/app.blade.php" timestamp="1511260033744">
         <mark key="[" line="1" column="0" />
@@ -702,7 +710,7 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517320577598">
+      <file name="/Dummy.txt" timestamp="1517394287407">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -718,7 +726,7 @@
         <mark key="]" line="72" column="12" />
         <mark key="." line="72" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/student/setpassword.tpl" timestamp="1517325877357">
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/student/setpassword.tpl" timestamp="1517393466380">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="33" />
         <mark key="." line="16" column="33" />
@@ -805,7 +813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="64" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/components/multi-search.tpl" />
       <jump line="52" column="44" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/components/multi-search.tpl" />
       <jump line="20" column="19" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/components/single-search.tpl" />
       <jump line="77" column="27" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/components/single-search.tpl" />
@@ -905,55 +912,56 @@
       <jump line="37" column="76" filename="$USER_HOME$/workspace/meinjob/core/src/User.type.php" />
       <jump line="96" column="9" filename="$USER_HOME$/workspace/meinjob/core/src/User.type.php" />
       <jump line="78" column="31" filename="$USER_HOME$/workspace/meinjob/core/src/User.type.php" />
+      <jump line="10" column="18" filename="$USER_HOME$/workspace/meinjob/meinjob/spunQ.local.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>eingeladen</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>eingeladen</text>
       </register>
       <register name="/" type="4">
-        <text>username</text>
+        <text>cookie</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IHRydWU7CiAgICAgICAgICAgICAgICBpbnB1dC5jbGFzc0xpc3QuYWRkKCdpbnZhbGlkJyk7CiAgICAgICAgICAgICAgICBpbnB1dC5jbGFzc0xpc3QucmVtb3ZlKCd2YWxpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbWVzc2FnZSA9IG5ldyBNZXNzYWdlKCk7CiAgICAgICAgJG1lc3NhZ2UtPnNldFN1YmplY3QoJHRlYWNoZXItPmdldE5hbWUoKSAuICcgaGF0IFNpZSBlaW5nZWxhZGVuJyk7CiAgICAgICAgJG1lc3NhZ2UtPnNldFNlbmRlcigkdGVhY2hlcik7CiAgICAgICAgJG1lc3NhZ2UtPnNldFJlY2lwaWVudCgkc3R1ZGVudCk7CiAgICAgICAgJG1lc3NhZ2UtPnNldEJvZHkodGVtcGxhdGVBc1N0cmluZygKICAgICAgICAgICAgJ21laW5qb2IubWVpbmpvYi5tYWlsLm1lc3NhZ2UuYm9keS10ZW1wbGF0ZXMuaW52aXRhdGlvbicsCiAgICAgICAgICAgIFsnbWVzc2FnZScgPT4gJG1lc3NhZ2VdCiAgICAgICAgKSk7CiAgICAgICAgJG1lc3NhZ2UtPnN0b3JlKCk7CiAgICAgICAgJG1lc3NhZ2UtPnNlbmRNYWlsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IHRydWU7CiAgICAgICAgICAgICAgICBpbnB1dFJlcGVhdC5jbGFzc0xpc3QuYWRkKCdpbnZhbGlkJyk7CiAgICAgICAgICAgICAgICBpbnB1dFJlcGVhdC5jbGFzc0xpc3QucmVtb3ZlKCd2YWxpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgaW5wdXRSZXBlYXQuY2xhc3NMaXN0LmFkZCgndmFsaWQnKTsKICAgICAgICAgICAgICAgIGlucHV0UmVwZWF0LmNsYXNzTGlzdC5yZW1vdmUoJ2ludmFsaWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IHRydWU7CiAgICAgICAgICAgICAgICBpbnB1dC5jbGFzc0xpc3QuYWRkKCdpbnZhbGlkJyk7CiAgICAgICAgICAgICAgICBpbnB1dC5jbGFzc0xpc3QucmVtb3ZlKCd2YWxpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgaW5wdXQuY2xhc3NMaXN0LmFkZCgndmFsaWQnKTsKICAgICAgICAgICAgICAgIGlucHV0LmNsYXNzTGlzdC5yZW1vdmUoJ2ludmFsaWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IHRydWU7CiAgICAgICAgICAgICAgICBpbnB1dFJlcGVhdC5jbGFzc0xpc3QuYWRkKCdpbnZhbGlkJyk7CiAgICAgICAgICAgICAgICBpbnB1dFJlcGVhdC5jbGFzc0xpc3QucmVtb3ZlKCd2YWxpZCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgaW5wdXRSZXBlYXQuY2xhc3NMaXN0LmFkZCgndmFsaWQnKTsKICAgICAgICAgICAgICAgIGlucHV0UmVwZWF0LmNsYXNzTGlzdC5yZW1vdmUoJ2ludmFsaWQnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IHRydWU7CiAgICAgICAgICAgICAgICBpbnB1dC5jbGFzc0xpc3QuYWRkKCdpbnZhbGlkJyk7CiAgICAgICAgICAgICAgICBpbnB1dC5jbGFzc0xpc3QucmVtb3ZlKCd2YWxpZCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5kaXNhYmxlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgaW5wdXQuY2xhc3NMaXN0LmFkZCgndmFsaWQnKTsKICAgICAgICAgICAgICAgIGlucHV0LmNsYXNzTGlzdC5yZW1vdmUoJ2ludmFsaWQnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>username</last-search>
+      <last-search>cookie</last-search>
       <last-offset />
-      <last-pattern>username</last-pattern>
+      <last-pattern>cookie</last-pattern>
       <last-replace>teacher-data</last-replace>
       <last-substitute>button</last-substitute>
       <last-dir>1</last-dir>
@@ -961,7 +969,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client-data</entry>
         <entry>teachersroom</entry>
         <entry>read</entry>
         <entry>unread</entry>
@@ -981,6 +988,7 @@
         <entry>getPassword</entry>
         <entry>setPassword</entry>
         <entry>username</entry>
+        <entry>cookie</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
