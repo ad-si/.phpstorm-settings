@@ -52,11 +52,11 @@
         <mark key="." line="28" column="74" />
         <mark key="^" line="28" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/userprofile/student-data.tpl" timestamp="1517843834443">
-        <mark key="[" line="71" column="39" />
-        <mark key="]" line="71" column="62" />
-        <mark key="." line="71" column="62" />
-        <mark key="^" line="71" column="62" />
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/userprofile/student-data.tpl" timestamp="1517846960508">
+        <mark key="[" line="59" column="90" />
+        <mark key="]" line="59" column="90" />
+        <mark key="." line="59" column="90" />
+        <mark key="^" line="59" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/laravel/my_laravel/app/Http/Middleware/LogBrowserConsole.php" timestamp="1511964799118">
         <mark key="[" line="22" column="0" />
@@ -97,6 +97,13 @@
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
         <mark key="^" line="8" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/_meinersterjob/html.tpl" timestamp="1517847368775">
+        <mark key="'" line="10" column="23" />
+        <mark key="[" line="31" column="95" />
+        <mark key="]" line="31" column="108" />
+        <mark key="." line="31" column="108" />
+        <mark key="^" line="31" column="108" />
       </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/selfcare/client-data.tpl" timestamp="1517411975750">
         <mark key="[" line="167" column="0" />
@@ -189,6 +196,7 @@
         <mark key="." line="241" column="8" />
         <mark key="^" line="241" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/html.tpl" timestamp="1517847266468" />
       <file name="$USER_HOME$/workspace/oe24_stagingserver/lib/oe24_wetter/tpl/_contentBoxes/allCards/detail-today.tpl" timestamp="1510654721043">
         <mark key="[" line="178" column="25" />
         <mark key="]" line="178" column="25" />
@@ -244,6 +252,12 @@
         <mark key="^" line="36" column="56" />
         <mark key="." line="36" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/_meinersterjob/subject.tpl" timestamp="1517847318991">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/userprofile/student-data.scss" timestamp="1517843762897">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="54" column="0" />
@@ -280,6 +294,13 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/meinjob/meinjob/spunQ.conf" timestamp="1517847527628">
+        <mark key="'" line="85" column="19" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="91" column="41" />
+        <mark key="^" line="88" column="19" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/userprofile/_message/list.tpl" timestamp="1517404884941">
         <mark key="[" line="18" column="25" />
@@ -323,6 +344,12 @@
         <mark key="]" line="39" column="56" />
         <mark key="." line="39" column="56" />
         <mark key="^" line="39" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/meinjob/core/src/Message.type.php" timestamp="1517847531205">
+        <mark key="[" line="202" column="59" />
+        <mark key="]" line="202" column="59" />
+        <mark key="^" line="202" column="73" />
+        <mark key="." line="202" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/oe24_stagingserver/lib/spunQ3/page/wormhole/js_complete.page" timestamp="1510583809346">
         <mark key="[" line="19" column="0" />
@@ -401,10 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="12" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/schoolclass.scss" />
-      <jump line="69" column="16" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/schoolclass.scss" />
-      <jump line="77" column="20" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/teachersroom/schoolclass.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/userprofile/components/search.scss" />
       <jump line="33" column="26" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/userprofile/components/search.scss" />
       <jump line="72" column="14" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/userprofile/components/search.scss" />
       <jump line="27" column="9" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/rvtpl/userprofile/components/search.scss" />
@@ -425,7 +448,6 @@
       <jump line="5" column="39" filename="$USER_HOME$/workspace/meinjob/meinjob/spunQ.local.conf" />
       <jump line="6" column="52" filename="$USER_HOME$/workspace/meinjob/meinjob/spunQ.local.conf" />
       <jump line="20" column="16" filename="$USER_HOME$/workspace/meinjob/meinjob/spunQ.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/meinjob/meinjob/spunQ.conf" />
       <jump line="34" column="39" filename="$USER_HOME$/workspace/meinjob/meinjob/spunQ.conf" />
       <jump line="35" column="39" filename="$USER_HOME$/workspace/meinjob/meinjob/spunQ.conf" />
       <jump line="36" column="39" filename="$USER_HOME$/workspace/meinjob/meinjob/spunQ.conf" />
@@ -501,19 +523,24 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/meinjob/core/src/Student.type.php" />
       <jump line="137" column="8" filename="$USER_HOME$/workspace/meinjob/core/src/Student.type.php" />
       <jump line="54" column="44" filename="$USER_HOME$/workspace/meinjob/core/src/Student.type.php" />
+      <jump line="1" column="2" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/_meinersterjob/html.tpl" />
+      <jump line="10" column="23" filename="$USER_HOME$/workspace/meinjob/meinjob/tpl/mail/_meinersterjob/html.tpl" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/meinjob/meinjob/spunQ.conf" />
+      <jump line="84" column="15" filename="$USER_HOME$/workspace/meinjob/meinjob/spunQ.conf" />
+      <jump line="85" column="19" filename="$USER_HOME$/workspace/meinjob/meinjob/spunQ.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Describe yourself here...</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFjdGl2YXRpb24uc2VuZGVyID0gJ25vcmVwbHlAbWVpbmpvYi5hdCcKICAgIGpvYmFwcGxpY2F0aW9uLnNlbmRlciA9ICdub3JlcGx5QG1laW5qb2IuYXQnCiAgICBtZXNzYWdlLnNlbmRlciA9ICdub3JlcGx5QG1laW5qb2IuYXQnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Describe yourself here...</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text>sender</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogMXJlbTsK</text>
+        <text encoding="base64">ICAgIGFjdGl2YXRpb24uc2VuZGVyID0gJ25vcmVwbHlAbWVpbmpvYi5hdCcKICAgIGpvYmFwcGxpY2F0aW9uLnNlbmRlciA9ICdub3JlcGx5QG1laW5qb2IuYXQnCiAgICBtZXNzYWdlLnNlbmRlciA9ICdub3JlcGx5QG1laW5qb2IuYXQnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogMXJlbTsK</text>
@@ -547,9 +574,9 @@
       </register>
     </registers>
     <search>
-      <last-search>body</last-search>
+      <last-search>sender</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern>sender</last-pattern>
       <last-replace>teacher-data</last-replace>
       <last-substitute>button</last-substitute>
       <last-dir>1</last-dir>
@@ -557,8 +584,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
-        <entry>_load</entry>
         <entry>teachersroom</entry>
         <entry>mainmenu</entry>
         <entry>$teacher</entry>
@@ -577,6 +602,8 @@
         <entry>qualification</entry>
         <entry>unique</entry>
         <entry>body</entry>
+        <entry>meinjob</entry>
+        <entry>sender</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
